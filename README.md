@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I’m Mona 👋
 
-<!--
-**monavaliolahi/Monavaliolahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Designer & Front-End Developer
 
-Here are some ideas to get you started:
+I design modern, responsive websites with a focus on clean UI, performance, and SEO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+* HTML
+* CSS
+* Responsive Web Design
+* SEO
+* Git & GitHub
+* WordPress
+
+🚀 Featured Projects
+
+Designab
+
+My personal web design brand and portfolio.
+
+TilesLock
+
+A modern product website focused on clean design and user experience.
+
+🎯 What I Do
+
+I create modern websites that are visually strong, responsive, fast, and built with users in mind.
+
+📫 Let’s Connect
+
+* Instagram: Designab
+* Website: https://designab.ir
