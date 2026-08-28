@@ -28,7 +28,7 @@ My personal web design brand and portfolio.
 
 🌐 Visit Designab.ir
 
-TileLock
+TilesLock
 
 A modern product website focused on clean design, responsive layouts, and user experience.
 
@@ -50,7 +50,7 @@ A modern product website focused on clean design, responsive layouts, and user e
 
 🌐 Portfolio: Designab.ir
 
-📷 Instagram: Designab
+📷 Instagram: Designab1
 
 ⸻
 
